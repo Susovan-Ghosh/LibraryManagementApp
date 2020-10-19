@@ -1,4 +1,4 @@
-Library Management Application using Spring Boot, REST APIs, JPA, Hibernate and MySQL with the following features :-
+Library Management Application using Spring Boot, REST APIs, JPA, Hibernate, MySQL and Exception Handling with the following features :-
 ------------------------------------------------------------------------------------------------------------------
 1.  APIs for creating/updating/fetching/deleting users/searching users.
 2.  APIs for creating/updating/fetching/deleting/searching books.
